@@ -32,3 +32,7 @@ ChatPDF는 사용자가 PDF 문서와 질문-답변 인터페이스를 통해 �
    ```bash
     streamlit run /content/app.py &>/content/logs.txt &
     npx localtunnel --port 8501
+   ```
+
+## ChatPDF 미리보기
+![model](app.png)
